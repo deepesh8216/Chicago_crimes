@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+fastapi
+uvicorn[standard]
+python-multipart
+ipykernel
+fastapi
+uvicorn
+sqlalchemy>=2.0,<3.0
+streamlit
+plotly
